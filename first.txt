@@ -7,4 +7,7 @@ It isn’t what we say or think that defines us, but what we do.
 
 Esta es otra prueba mas 
 
-1820-1850
+<<<<<<< HEAD
+
+1800
+>>>>>>> lincoln
